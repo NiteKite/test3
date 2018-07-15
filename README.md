@@ -15,3 +15,5 @@ The Scrapy version can be run through command line:
 "scrapy runspider twitter_followers_a.py -o items.csv" for csv output.
 
 Learning how to actually push the code to Github took less than 10 minutes, however this was supplemented with about 2 hours of learning about what Git is and how to use it locally. 
+
+* Note: Scrapy does not seem to be supported in Python 3.7 yet.
